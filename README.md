@@ -51,7 +51,7 @@ npm --version    # v9 or higher
 ### 1. Clone & install dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nft-viewer.git
+git clone https://github.com/Ayoub-46/nft-gallery.git
 cd nft-viewer
 
 # Install all workspace dependencies
